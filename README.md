@@ -7,3 +7,5 @@ Learning outcomes:
   - props from parent to child
   - re-rendering
   - git init steps
+  - map()
+  - filter()
